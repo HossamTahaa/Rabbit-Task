@@ -19,7 +19,7 @@ A React-based web application designed to manage and view orders efficiently. Th
 In the terminal, run:
 -npm install
 
-3-Run the Project:
+4-Run the Project:
 npm start
  
 ------------------------

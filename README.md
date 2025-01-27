@@ -67,9 +67,4 @@ npm start
    - Displays a friendly "No orders found" message when the table is empty after applying filters or searching.
 
  
- ## Installation
-
- 1- git clone https://github.com/HossamTahaa/Rabbit-Task.git
- 2- cd Rabbit-Task
- 3- 
-
+ 
